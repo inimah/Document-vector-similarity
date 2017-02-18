@@ -8,7 +8,7 @@ Experiments about word-document vector space representation for unsupervised lea
 - evaluation of heterogeneous data sets (text, html, xml, microblogs)
 - evaluation on words in different language (e.g. Dutch embedding)
 
-Further reading towards <a href="Background-Motivations.md">motivations</a> behind this study (and summary of literature review!): 
+Further reading towards <a href="Background-Motivations.md">motivations</a> behind this study (and a brief summary of literature review!) 
 
 We use the following data sets in this study:
 
