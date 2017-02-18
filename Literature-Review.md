@@ -2,10 +2,40 @@ I decide to create my summary of literature review, which I clustered into sever
 
 **1. Word Embedding**
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
 
 **2. Document distance**
+
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
+
+**3. Distance metrics**
+
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
+
+**3. Document clustering**
+
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
