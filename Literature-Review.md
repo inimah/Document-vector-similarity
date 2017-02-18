@@ -1,4 +1,4 @@
-I decide to create a summary of my literature review w.r.t, which I clustered into several topic categorization.
+I decide to create a brief summary of my literature review w.r.t to "Document vector similarity", which I clustered into several topic categorization.
 
 **1. Word Embedding**
 
@@ -40,7 +40,17 @@ My review:
 
 My review:
 
-**5. Evaluation**
+**5. Deep Neural Networks**
+
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
+
+**6. Evaluation**
 
 | Reference        | About           | 
 | ------------- |:-------------:| 
