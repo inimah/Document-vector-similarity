@@ -1,4 +1,4 @@
-I decide to create my summary of literature review, which I clustered into several topic categorization.
+I decide to create a summary of my literature review w.r.t, which I clustered into several topic categorization.
 
 **1. Word Embedding**
 
@@ -30,7 +30,17 @@ My review:
 
 My review:
 
-**3. Document clustering**
+**4. Document clustering**
+
+| Reference        | About           | 
+| ------------- |:-------------:| 
+| (author,year)      | a | 
+| (author,year)      | b      |  
+| (author,year) | c      |   
+
+My review:
+
+**5. Evaluation**
 
 | Reference        | About           | 
 | ------------- |:-------------:| 
