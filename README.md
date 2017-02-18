@@ -8,7 +8,7 @@ Experiments about word-document vector space representation for unsupervised lea
 - evaluation of heterogeneous data sets (text, html, xml, microblogs)
 - evaluation on words in different language (e.g. Dutch embedding)
 
-Further reading towards motivation behind this study (and summary of literature review!): Document-vector-similarity/Background-Motivations.md
+Further reading towards motivation behind this study (and summary of literature review!): ~/Document-vector-similarity/Background-Motivations.md
 
 We use the following data sets in this study:
 
