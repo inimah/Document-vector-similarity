@@ -10,7 +10,7 @@ Experiments about word-document vector space representation for unsupervised lea
 
 
 Motivations: 
-Human (sometimes - not in all cases) can easily retrieve useful information from documents or categorizing documents by looking at contextual meaning of them, for instance. This also includes processes in finding association / semantic meaning between words or documents in a natural way (through the long process of learning language since the time we were taught to read and speak). Computer, however, only understands mathematical function, while some computational approaches of Natural Language Processing will also need heuristic rules and human annotation beforehands - which is mostly labour expensive and time consuming. This creates challenges in word-language modelling, such as:
+Human (sometimes - not in all cases) can easily retrieve useful information from documents or categorizing documents by looking at the contextual meaning of  words in a document, for instance. This also includes processes in finding association / semantic meaning between words or documents in a natural way (through the long process of learning language since the time we were taught to read and speak). Computer, however, only understands mathematical function, while some computational approaches of Natural Language Processing will also need heuristic rules and human annotation beforehands - which is mostly labour expensive and time consuming. This creates challenges in word-language modelling, such as:
 - how to extract useful features (e.g. word vector representation) from the unstructured document?
 - how to find (hopefully) interesting pattern in the word-document clusters to be further evaluated with the original class label (if anys)
 
