@@ -15,7 +15,7 @@ We use the following data sets in this study:
 Basically these data sets need to include challenges in learning unstructured data, such as:
 - Negation issue (mostly found in sentiment analysis) 
 - Word morphological issue (e.g. mouse vs. mice)
-- 
+- Different document (sentence) length
 
 1. Toy (syntetic) data sets
    
