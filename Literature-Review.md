@@ -14,7 +14,7 @@ My summary:
 
 | Reference        | Keywords / Approaches  | Summary | Comments |
 | ------------- |-------------| ------------- | ------------- | 
-| \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails -> so combine it with WE <br>- extract pairs & non-pairs of semantically related words| |
+| \[4] (Cedric, et al., 2015) | Two text fragments; Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails -> so combine it with WE <br>- extract pairs & non-pairs of semantically related words| |
 | \[5]. (Weston, et al., 2014) | Averaging word vector |  | |
 | \[6]. (Santos & Ganti, 2014) | Averaging word vector |   | |
 | \[7]. (Collobert, et al., 2011) | Averaging word vector |  | |
