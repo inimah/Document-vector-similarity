@@ -14,7 +14,10 @@ My summary:
 
 | Reference        | Keywords / Approaches  | Summary | Comments |
 | ------------- |-------------| ------------- | ------------- | 
-| \[4] (Cedric, et al., 2015) | Two text fragments; Combination of word-embedding and tf-idf weighting | - Experiments: Wikipedia corpus, word2vec, skip gram negative sampling, 5 words context windows, 400 dimensions (hidden neurons) <br>-compares on different sentence length (10, 20, 30 words) <br>- extract pairs (5M) & non-pairs (5M) of semantically related words, | |
+| \[4] (Cedric, et al., 2015) | Two text fragments; Combination of word-embedding and tf-idf weighting | - Experiments: Wikipedia corpus, word2vec, skip gram negative sampling, 5 words context windows, 400 dimensions (hidden neurons) ||
+|||-compares on different sentence length (10, 20, 30 words) <br>- extract pairs (5M) & non-pairs (5M) of semantically related words, | |
+|||-compares on different sentence length (10, 20, 30 words) <br>- extract pairs (5M) & non-pairs (5M) of semantically related words, | |
+|||-compares on different sentence length (10, 20, 30 words) <br>- extract pairs (5M) & non-pairs (5M) of semantically related words, | |
 | \[5]. (Weston, et al., 2014) | Averaging word vector |  | |
 | \[6]. (Santos & Ganti, 2014) | Averaging word vector |   | |
 | \[7]. (Collobert, et al., 2011) | Averaging word vector |  | |
