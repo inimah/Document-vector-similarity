@@ -12,8 +12,6 @@ My review:
 
 **2. Document/Sentence distance (sentence representation)**
 
-
-
 | Reference        | Keys / Approaches  | Summary |
 | ------------- |-------------| ------------- | 
 | \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
@@ -22,7 +20,7 @@ My review:
 | \[7]. (Collobert, et al., 2011) | Averaging word vector |  |
 | \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   |
-| \[10]. (Zhang, Xiang, & LeCun, 2015) | Clustering |   |
+| \[10]. (Zhang & LeCun, 2015) | Clustering |   |
 
 My review:
 
@@ -92,4 +90,9 @@ References:
 
 Other References (Books!):
 
+\[1]. [Deep Learning MIT Press](http://www.deeplearningbook.org/)
+
+\[2]. Martin, James H., and Daniel Jurafsky. "Speech and language processing." 3rd edition. [draft](https://web.stanford.edu/~jurafsky/slp3/)
+
+\[3].
 
