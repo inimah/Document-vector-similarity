@@ -1,6 +1,6 @@
 # Document-vector-similarity
 
-Experiments about word-document vector space representation for unsupervised learning approach of unstructured data. This includes:
+Experiments about word-document vector, which includes:
 - text-document similarity distance
 - text-document clustering
 - more insight on data, e.g. what characteristics makes one document differs with others: specific words used in the document? (in topical categorization), polarity of orientation? (in sentiment analysis or opinion mining)   
