@@ -13,7 +13,6 @@ Further reading towards motivations behind this study (and a brief summary of li
 We use the following data sets in this study:
 
 1. Toy Information Retrieval (IR) data
-
 Text documents (total 24 docs) are purposefully generated for common IR-similarity distance problems.Each document consists of a single sentence that either has "dog", "cat", or "mouse" words. The purpose of this toy data sets is for analysing how word-embeddings approach(es) will perform on finding the similarity in this small set of unlabelled data that can be easily evaluated (by human feedback). 
 The example of sentences in document corpus:
    
