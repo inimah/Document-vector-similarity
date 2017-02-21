@@ -21,6 +21,7 @@ My review:
 | \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   |
+| \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   |
 
 My review:
 
@@ -86,6 +87,8 @@ My review:
 \[9]. L. Kang, B. Hu, X. Wu, Q. Chen, and Y. He, “A Short Texts Matching Method using Shallow Features and Deep Features,” in Third CCF Conference, NLPCC 2014, Nov. 2014.
 
 \[10]. Zhang, Xiang, and Yann LeCun. "Text understanding from scratch." arXiv preprint arXiv:1502.01710 (2015).
+
+\[11]. Q. V. Le and T. Mikolov, “Distributed Representations of Sentences and Documents,” arXiv.org, May 2014.
 
 
 **Other References (Books!):**
