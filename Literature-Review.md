@@ -30,6 +30,7 @@ My summary:
 | \[14]. (Hu, et al., 2014) |  pair & non-pair text fragments   | | |
 
 My summary:
+
 \[4]. <ul><li>I don't quite understand why the authors specifically mention this multiplication (multiplying 400 dimension WE with the importance factors) (page 4 of 6) since minimizing lost function should be included in the generation stage of WE. Probably to highlight the importance of hyperparameter configuration in this stage then?</li></ul> 
 
 \[5]. <ul><li>Skimming to know how the experiments generate sentence-vector representation</li><li>w.r.t. CNN, not sure if the authors' intention to use this NN architecture is either: because linear projection of input-first convolutional layer (shared weights), for dimensional reduction purpose, or because this NN has this "K" parameter that similar with window context in skip gram - but then with dense vector representation as input (?) Is it because they want to penalize negative vector values of WE (?) or expecting the benefit of pre-trained features if anys (?)</li></ul> 
