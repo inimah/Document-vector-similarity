@@ -12,6 +12,11 @@ Further reading towards motivations behind this study (and a brief summary of li
 
 We use the following data sets in this study:
 
+Basically these data sets need to include challenges in learning unstructured data, such as:
+- Negation issue (mostly found in sentiment analysis) 
+- Word morphological issue (e.g. mouse vs. mice)
+- 
+
 1. Toy (syntetic) data sets
    
    Text documents (total 24 docs) are purposefully generated for investigating common IR-similarity distance problems. Each document consists of a single sentence that either has "dog", "cat", or "mouse" words. The purpose of this toy data sets is for analysing how word-embeddings approach(es) will perform on finding the similarity in this small set of unlabelled data that can be easily evaluated (by human feedback). 
