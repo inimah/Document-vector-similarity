@@ -1,4 +1,5 @@
 I decide to create a brief summary of my literature review w.r.t to "Document vector similarity", which I clustered into several topic categorization.  
+
 --------------------------------------------------------------------
 Column 1                                                Column 2
 ------------------------------------------------------  ------------
