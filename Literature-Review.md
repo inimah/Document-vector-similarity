@@ -12,9 +12,9 @@ My review:
 
 **2. Document/Sentence distance (sentence representation)**
 
-Approaches
 
-| Reference        | Keys           | Summary |
+
+| Reference        | Keys / Approaches  | Summary |
 | ------------- |-------------| ------------- | 
 | \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
 | \[5]. (Weston, et al., 2014) | Averaging word vector     |  |
