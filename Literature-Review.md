@@ -14,7 +14,7 @@ My review:
 
 | Reference        | Keys           | Summary |
 | ------------- |-------------| ------------- | 
-| De Boom, Cedric, et al. "Learning semantic similarity for very short texts." Data Mining Workshop (ICDMW), 2015 IEEE International Conference on. IEEE, 2015.      | Combination of word-embedding and tf-idf weighting | tba |
+| De Boom, Cedric, et al. "Learning semantic similarity for very short texts." Data Mining Workshop (ICDMW), 2015 IEEE International Conference on. IEEE, 2015.      | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
 | (author,year)      | b      |  |
 | (author,year) | c      |   |
 
