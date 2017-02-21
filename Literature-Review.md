@@ -20,6 +20,8 @@ Approaches
 | \[5] (Weston, et al., 2014) | Averaging word vector     |  |
 | \[6] (Santos & Ganti, 2014) | Averaging word vector |   |
 | \[7] (Collobert, et al., 2011) | Averaging word vector      |  |
+| \[8] | Multi Layer Perceptron     |  
+| \[9] | Multi Layer Perceptron     |  
 
 My review:
 
@@ -79,5 +81,12 @@ References:
 \[6]. C. N. dos Santos and M. Gatti, "Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts," in COLING 2014, the 25th International Conference on Computational Linguistics, Dublin, Jul. 2014, pp. 69–78
 
 \[7]. R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuoglu, and P. Kuksa, "Natural Language Processing (Almost) from Scratch," The Journal of Machine Learning Research, vol. 12, Feb. 2011.
+
+\[8]. F. Godin, B. Vandersmissen, A. Jalalvand, W. De Neve, and R. Van de Walle, “Alleviating Manual Feature Engineering for Part-of-Speech Tagging of Twitter Microposts using Distributed Word Representations,” in Workshop on Modern Machine Learning and Natural Language Processing, NIPS 2014, Oct. 2014.
+
+\[9]. L. Kang, B. Hu, X. Wu, Q. Chen, and Y. He, “A Short Texts Matching Method using Shallow Features and Deep Features,” in Third CCF Conference, NLPCC 2014, Nov. 2014.
+
+
+Other References (Books!):
 
 
