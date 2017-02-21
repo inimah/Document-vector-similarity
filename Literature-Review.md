@@ -90,9 +90,9 @@ References:
 
 Other References (Books!):
 
-\[1]. [Deep Learning MIT Press](http://www.deeplearningbook.org/)
+\[1]. Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [web version](http://www.deeplearningbook.org/)
 
-\[2]. Martin, James H., and Daniel Jurafsky. "Speech and language processing." 3rd edition. [draft](https://web.stanford.edu/~jurafsky/slp3/)
+\[2]. Martin, James H., and Daniel Jurafsky. "Speech and language processing." 3rd edition. [draft - web version](https://web.stanford.edu/~jurafsky/slp3/)
 
-\[3].
+\[3]. Widdows, Dominic, and Dominic Widdows. Geometry and meaning. Vol. 773. Stanford: CSLI publications, 2004.
 
