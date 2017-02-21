@@ -4,9 +4,9 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 | Reference        | About           | 
 | ------------- |:-------------:| 
-| (author,year)      | a | 
-| (author,year)      | b      |  
-| (author,year) | c      |   
+| \[1]. (Mikolov, et al., 2013a)      | a | 
+| \[2]. (Mikolov, et al., 2013b)      | b      |  
+| \[3]. (Mikolov, et al., 2013c) | c      |   
 
 My review:
 
@@ -69,11 +69,11 @@ My review:
 
 **References:**
 
-\[1].
+\[1]. T. Mikolov, W.-t. Yih, and G. Zweig, “Linguistic Regularities in Continuous Space Word Representations,” in Proceedings of NAACL HLT, Apr. 2013.
 
-\[2].
+\[2]. T. Mikolov, I. Sutskever, K. Chen, G. Corrado, and J. Dean, “Distributed Representations of Words and Phrases and their Compositionality,” in NIPS 2013: Advances in neural information processing systems, Oct. 2013.
 
-\[3].
+\[3]. T. Mikolov, K. Chen, G. Corrado, and J. Dean, “Efficient Estimation of Word Representations in Vector Space,” in Proceedings of Workshop at ICLR, Jan. 2013.
 
 \[4]. De Boom, Cedric, et al. "Learning semantic similarity for very short texts." Data Mining Workshop (ICDMW), 2015 IEEE International Conference on. IEEE, 2015. 
 
