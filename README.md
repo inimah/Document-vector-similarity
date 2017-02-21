@@ -20,7 +20,7 @@ We use the following data sets in this study:
    
 2. Shakespeare plays
    
-   Consists of Shakespeare's play and poetry data sets, which are categorized into 4 categories of genres (comedy, history, tragedy, poetry). Preliminary experiments (https://github.com/sereprz/ShakespeareTextAnalysis) has investigated the word vector of similar data sets but more focusing on the analysis of specific words in topical categorization and sentiment analysis problems. Likewise, we want to expore how document clustering with detect interesting insights and (hopefully) useful patterns in this classification problem.
+   Consists of Shakespeare's play and poetry data sets, which are categorized into 4 genres (comedy, history, tragedy, poetry). Preliminary experiments (https://github.com/sereprz/ShakespeareTextAnalysis) has investigated the word vector of similar data sets but more focusing on the analysis of specific words in topical categorization and sentiment analysis problems. Likewise, we want to expore how document clustering with detect interesting insights and (hopefully) useful patterns in this classification problem.
 
 
 3. Newsfeed data sets
