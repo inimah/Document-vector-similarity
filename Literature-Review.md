@@ -17,11 +17,11 @@ Approaches
 | Reference        | Keys           | Summary |
 | ------------- |-------------| ------------- | 
 | \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
-| \[5] (Weston, et al., 2014) | Averaging word vector     |  |
-| \[6] (Santos & Ganti, 2014) | Averaging word vector |   |
-| \[7] (Collobert, et al., 2011) | Averaging word vector      |  |
-| \[8] | Multi Layer Perceptron     |  
-| \[9] | Multi Layer Perceptron     |  
+| \[5]. (Weston, et al., 2014) | Averaging word vector     |  |
+| \[6]. (Santos & Ganti, 2014) | Averaging word vector |   |
+| \[7]. (Collobert, et al., 2011) | Averaging word vector      |  |
+| \[8]. (Godin, et al., 2014) | Multi Layer Perceptron     |  
+| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron     |  
 
 My review:
 
