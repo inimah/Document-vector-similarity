@@ -1,4 +1,4 @@
-I decide to create a brief summary of my literature review w.r.t to "Document vector similarity", which I clustered into several topic categorization. Please ignore my remaining questions and/or rethoricals if anys, but do let me know .  
+I decide to create a brief summary of my literature review w.r.t to "Document vector similarity", which I clustered into several topic categorization.  
 
 **1. Word Embedding (WE)**
 
