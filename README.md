@@ -29,4 +29,13 @@ We use the following data sets in this study:
 3. Dutch wikipedia embedding
 
 
-Methods
+Methods:
+
+1. Feature extraction (Sentence-document vector representation)
+<ul><li>TF-IDF Bag of Words</li><li>Skip gram with vector averaging</li><li>Skip gram with vector min-max</li><li>Skip gram with TF-IDF weighting</li></ul>
+
+2. Distance metrics:
+<ul><li>Cosine similarity</li><li>Euclidian distance</li><li>Jaccard similarity</li><li>...</li></ul>
+
+3. Evaluation
+
