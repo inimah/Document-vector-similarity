@@ -12,11 +12,23 @@ My review:
 
 **2. Document/Sentence distance (sentence representation)**
 
+Approaches
+
 | Reference        | Keys           | Summary |
 | ------------- |-------------| ------------- | 
 | De Boom, Cedric, et al. "Learning semantic similarity for very short texts." Data Mining Workshop (ICDMW), 2015 IEEE International Conference on. IEEE, 2015.      | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
-| (author,year)      | b      |  |
-| (author,year) | c      |   |
+| J. Weston, S. Chopra, and K. Adams, “#TagSpace: Semantic
+embeddings from hashtags,” in Proceedings of the 2014
+Conference on Empirical Methods in Natural Language Processing
+(EMNLP), 2014.      | Averaging word vector     |  |
+| C. N. dos Santos and M. Gatti, “Deep Convolutional Neural
+Networks for Sentiment Analysis of Short Texts,” in COLING
+2014, the 25th International Conference on Computational
+Linguistics, Dublin, Jul. 2014, pp. 69–78 | Averaging word vector      |   |
+| C. N. dos Santos and M. Gatti, “Deep Convolutional Neural
+Networks for Sentiment Analysis of Short Texts,” in COLING
+2014, the 25th International Conference on Computational
+Linguistics, Dublin, Jul. 2014, pp. 69–78. | Averaging word vector      |  |
 
 My review:
 
