@@ -1,4 +1,25 @@
 I decide to create a brief summary of my literature review w.r.t to "Document vector similarity", which I clustered into several topic categorization.  
+--------------------------------------------------------------------
+Column 1                                                Column 2
+------------------------------------------------------  ------------
+I want the contents of this cell to fit into one line   Word1 Word2
+
+------------------------------------------------------  ------------
+
+: **Column 2 is narrow.** For column 1: 54 dashes in Markdown source 
+for separator line; for column 2: 12 dashes in separator line (22% of column 1).
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Column 1                                                Column 2
+------------------------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I want the contents of this cell to fit into one line   Word1 Word2
+
+------------------------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+: **Column 1 is narrow.** For column 1: 54 dashes in Markdown source for
+separator line; for column 2: 162 dashes in separator line (300% of column 1).
+
 
 **1. Word Embedding (WE)**
 
