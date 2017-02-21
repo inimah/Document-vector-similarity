@@ -7,7 +7,8 @@ As such, to obtain a good languange model, the following nontrivial challenges :
 - how to extract useful features (e.g. word vector representation) from the unstructured document, by only using mathematical ?
 - how to find (hopefully) interesting pattern in the word-document clusters to be further evaluated with the original class label (if anys)
 
-The different (and connection!) with previous studies???:
+The different (and connection!) with previous studies:
 - focus on unsupervised approach (clustering)
-- document-to-document level similarity, instead of word level similarity
+- aims for no input about the syntactic & lexical structure of text, or human annotation as either additional high-level features or class labels (relies on word vector representation)
+- document-to-document level similarity, instead of word level similarity or word analogy
 - similarity metric distance for high dimensionality vector (since each word vector of WE represents n-dimensional vector, n depends on number of neurons used in training the word embedding)
