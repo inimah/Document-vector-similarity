@@ -17,11 +17,12 @@ My review:
 | Reference        | Keys / Approaches  | Summary |
 | ------------- |-------------| ------------- | 
 | \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails |
-| \[5]. (Weston, et al., 2014) | Averaging word vector     |  |
+| \[5]. (Weston, et al., 2014) | Averaging word vector |  |
 | \[6]. (Santos & Ganti, 2014) | Averaging word vector |   |
-| \[7]. (Collobert, et al., 2011) | Averaging word vector      |  |
-| \[8]. (Godin, et al., 2014) | Multi Layer Perceptron     |  
-| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron     |  
+| \[7]. (Collobert, et al., 2011) | Averaging word vector |  |
+| \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
+| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   |
+| \[10]. (Zhang, Xiang, & LeCun, 2015) | Clustering |   |
 
 My review:
 
@@ -85,6 +86,8 @@ References:
 \[8]. F. Godin, B. Vandersmissen, A. Jalalvand, W. De Neve, and R. Van de Walle, “Alleviating Manual Feature Engineering for Part-of-Speech Tagging of Twitter Microposts using Distributed Word Representations,” in Workshop on Modern Machine Learning and Natural Language Processing, NIPS 2014, Oct. 2014.
 
 \[9]. L. Kang, B. Hu, X. Wu, Q. Chen, and Y. He, “A Short Texts Matching Method using Shallow Features and Deep Features,” in Third CCF Conference, NLPCC 2014, Nov. 2014.
+
+\[10]. Zhang, Xiang, and Yann LeCun. "Text understanding from scratch." arXiv preprint arXiv:1502.01710 (2015).
 
 
 Other References (Books!):
