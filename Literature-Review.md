@@ -14,7 +14,7 @@ My summary:
 
 | Reference        | Keywords / Approaches  | Summary | Comments |
 | ------------- |-------------| ------------- | ------------- | 
-| \[4] (Cedric, et al., 2015) | Two text fragments; Combination of word-embedding and tf-idf weighting | <ul><li>**Experiments**: Wikipedia corpus, word2vec, skip gram negative sampling, 5 words context windows, 400 dimensions (hidden neurons)</li><li>Compares on different sentence length (10, 20, 30 words)</li><li>Extract pairs (5M) &amp; non-pairs (5M) of semantically related words,</li><li>**Vector representation** (to calculate cosine similarity): averaging WE, maximum WE, combining WE with TF-IDF weighting</li></ul> ||
+| \[4] (Cedric, et al., 2015) | Two text fragments; Combination of word-embedding and tf-idf weighting | <ul><li>**Experiments**: Wikipedia corpus, word2vec, skip gram negative sampling, 5 words context windows, 400 dimensions (hidden neurons)</li><li>Compares on different sentence length (10, 20, 30 words)</li><li>Extract pairs (5M) &amp; non-pairs (5M) of semantically related words,</li><li>**Vector representation** (to calculate cosine similarity): averaging WE, maximum WE, combining WE with TF-IDF weighting</li><li>*Result*: combination WE-TFIDF works well in shorter sentences (10 words), mean WE works better in longer texts, mean WE-TFIDF outnumbers others by taking the average WE of rare words (words with 30% IDF)</li></ul> ||
 | \[5]. (Weston, et al., 2014) | Averaging word vector |  | |
 | \[6]. (Santos & Ganti, 2014) | Averaging word vector |   | |
 | \[7]. (Collobert, et al., 2011) | Averaging word vector |  | |
