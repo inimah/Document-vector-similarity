@@ -23,7 +23,7 @@ My review:
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   |
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   |
 | \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance, moving distance | - evaluating distance with knn classifier   |
-| \[13]. (Zheng & Callan, 2015) |  term-weighting   | 
+| \[13]. (Zheng & Callan, 2015) |  term-weighting, linear regression   | 
 
 My review:
 
