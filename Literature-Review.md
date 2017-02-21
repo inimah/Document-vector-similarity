@@ -65,7 +65,7 @@ My review:
 My review:
 
 
-References:
+**References:**
 
 \[1].
 
@@ -88,7 +88,7 @@ References:
 \[10]. Zhang, Xiang, and Yann LeCun. "Text understanding from scratch." arXiv preprint arXiv:1502.01710 (2015).
 
 
-Other References (Books!):
+**Other References (Books!):**
 
 \[1]. Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [web version](http://www.deeplearningbook.org/)
 
