@@ -10,13 +10,13 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 My review:
 
-**2. Document distance**
+**2. Document/Sentence distance**
 
-| Reference        | About           | 
-| ------------- |:-------------:| 
-| (author,year)      | a | 
-| (author,year)      | b      |  
-| (author,year) | c      |   
+| Reference        | Keys           | Summary |
+| ------------- |:-------------:| :-------------:| 
+| De Boom, Cedric, et al. "Learning semantic similarity for very short texts." Data Mining Workshop (ICDMW), 2015 IEEE International Conference on. IEEE, 2015.      | Combination of word-embedding and tf-idf weighting | tba |
+| (author,year)      | b      |  |
+| (author,year) | c      |   |
 
 My review:
 
