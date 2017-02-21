@@ -3,7 +3,7 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 **1. Word Embedding**
 
 | Reference        | Keywords / Approaches  | Summary | Comments |
-| ------------- |:-------------:| 
+| ------------- |-------------| ------------- | ------------- | 
 | \[1]. (Mikolov, et al., 2013a)      | a | | |
 | \[2]. (Mikolov, et al., 2013b)      | b      |  | |
 | \[3]. (Mikolov, et al., 2013c) | c      |  | |
