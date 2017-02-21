@@ -22,6 +22,7 @@ My review:
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   |
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   |
+| \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance | - evaluating distance with knn classifier   |
 
 My review:
 
@@ -89,6 +90,8 @@ My review:
 \[10]. Zhang, Xiang, and Yann LeCun. "Text understanding from scratch." arXiv preprint arXiv:1502.01710 (2015).
 
 \[11]. Q. V. Le and T. Mikolov, “Distributed Representations of Sentences and Documents,” arXiv.org, May 2014.
+
+\[12]. M. J. Kusner, Y. Sun, N. I. Kolkin, and K. Q. Weinberger, “From Word Embeddings To Document Distances.” ICML, pp. 957–966, 2015.
 
 
 **Other References (Books!):**
