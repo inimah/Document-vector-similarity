@@ -2,30 +2,30 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 **1. Word Embedding**
 
-| Reference        | About           | 
+| Reference        | Keywords / Approaches  | Summary | Comments |
 | ------------- |:-------------:| 
-| \[1]. (Mikolov, et al., 2013a)      | a | 
-| \[2]. (Mikolov, et al., 2013b)      | b      |  
-| \[3]. (Mikolov, et al., 2013c) | c      |   
+| \[1]. (Mikolov, et al., 2013a)      | a | | |
+| \[2]. (Mikolov, et al., 2013b)      | b      |  | |
+| \[3]. (Mikolov, et al., 2013c) | c      |  | |
 
-My review:
+My summary:
 
 **2. Document/Sentence distance (sentence representation)**
 
-| Reference        | Keys / Approaches  | Summary |
-| ------------- |-------------| ------------- | 
-| \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails -> so combine it with WE <br>- extract pairs & non-pairs of semantically related words|
-| \[5]. (Weston, et al., 2014) | Averaging word vector |  |
-| \[6]. (Santos & Ganti, 2014) | Averaging word vector |   |
-| \[7]. (Collobert, et al., 2011) | Averaging word vector |  |
+| Reference        | Keywords / Approaches  | Summary | Comments |
+| ------------- |-------------| ------------- | ------------- | 
+| \[4] (Cedric, et al., 2015) | Combination of word-embedding and tf-idf weighting | - in short text similarity case, tf-idf often fails -> so combine it with WE <br>- extract pairs & non-pairs of semantically related words| |
+| \[5]. (Weston, et al., 2014) | Averaging word vector |  | |
+| \[6]. (Santos & Ganti, 2014) | Averaging word vector |   | |
+| \[7]. (Collobert, et al., 2011) | Averaging word vector |  | |
 | \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
-| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   |
-| \[10]. (Zhang & LeCun, 2015) | Clustering |   |
-| \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   |
-| \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance, moving distance | - evaluating distance with knn classifier   |
-| \[13]. (Zheng & Callan, 2015) |  term-weighting, linear regression   | 
+| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   | |
+| \[10]. (Zhang & LeCun, 2015) | Clustering |   | |
+| \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   | |
+| \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance, moving distance | - evaluating distance with knn classifier   | |
+| \[13]. (Zheng & Callan, 2015) |  term-weighting, linear regression   | | |
 
-My review:
+My summary:
 
 **3. Distance metrics**
 
