@@ -10,7 +10,7 @@ Experiments about word-document vector, which includes:
 
 Further reading towards motivations behind this study (and a brief summary of literature review!) can be read <a href="Background-Motivations.md"> {{here}} </a>
 
-We use the following data sets in this study:
+**#We use the following data sets in this study:**
 
 Basically these data sets need to include challenges in learning unstructured data, such as:
 - Negation issue (mostly found in sentiment analysis) 
