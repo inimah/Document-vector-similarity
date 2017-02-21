@@ -10,7 +10,7 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 My review:
 
-**2. Document/Sentence distance**
+**2. Document/Sentence distance (sentence representation)**
 
 | Reference        | Keys           | Summary |
 | ------------- |-------------| ------------- | 
