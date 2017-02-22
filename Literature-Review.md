@@ -35,7 +35,7 @@ My summary:
 
 \[5]. <ul><li>Skimming to know how the experiments generate sentence-vector representation</li><li>w.r.t. CNN, not sure if the authors' intention to use this NN architecture is either: because linear projection of input-first convolutional layer (shared weights), for dimensional reduction purpose, or because this NN has this "K" parameter that similar with window context in skip gram - but then with dense vector representation as input (?) Is it because they want to penalize negative vector values of WE (?) or expecting the benefit of pre-trained features if anys (?)</li></ul> 
 
-\[6]. <ul><li>the authors only focus on longer sentence since they remove sentences that &lt; 20 or have &lt; 5 words &amp; discard any numerical values within text - probably because the text source is microblogs and they only want to focus in sentence polarity</li><li>This character-level embedding as convolutional layer, probably as same as stemming then?</li><li>I still don't quite understand with CNN experimental design</li></ul> 
+\[6]. <ul><li>the authors only focus on longer sentence since they remove sentences that &lt; 20 or have &lt; 5 words &amp; discard any numerical values within text - probably because the text source is microblogs and they only want to focus in sentence polarity</li><li>This character-level embedding as convolutional layer, probably as same as stemming then?</li><li>I still don't quite understand with CNN experimental design - due to paper skimming - since they also used word2vec to generate WE</li></ul> 
 
 **3. Distance metrics**
 
