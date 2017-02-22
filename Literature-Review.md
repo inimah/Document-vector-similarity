@@ -20,7 +20,7 @@ My summary:
 | \[4] (Cedric, et al., 2015) | Pair texts (sentences) similarity; Combination of word-embedding and tf-idf weighting; Skip gram | <ul><li>**Experiments**: Wikipedia corpus, word2vec, skip gram negative sampling, 5 words context windows, 400 dimensions (hidden neurons)</li><li>Compares on different sentence length (10, 20, 30 words)</li><li>Extract pairs (5M) &amp; non-pairs (5M) of semantically related texts (sentences),</li><li>**Vector representation** (to calculate cosine similarity): averaging WE, maximum WE, combining WE with TF-IDF weighting</li><li>**Result**: combination mean WE-TFIDF works well in shorter sentences (10 words). For longer texts (20 &amp; 30 words), mean WE-TFIDF from top 30% words with highest IDF outnumbers other methods. Between distance metrics, Euclidian performs best.</li></ul> | 
 | \[5]. (Weston, et al., 2014) | Hashtags (words) prediction based on context text (sentence), Averaging word embedding; CNN | <ul><li>generates WE with word2vec</li><li>use pre-trained WE on CNN</li><li>in WE feature extraction, vector summation &amp; average, TF-IDF weighting are used</li></ul> | 
 | \[6]. (Santos & Ganti, 2014) | word-level embedding &amp; character-level embedding; Max vector | <ul><li>**Datasets**: texts of sentiment analysis domain from moview review &amp; twitter</li><li>use max operation to extract global fixed size of sentence feature/vector</li></ul>  | 
-| \[7]. (Collobert, et al., 2011) | Averaging word vector |  | |
+| \[7]. (Collobert, et al., 2011) | Averaging word vector | <ul><li>use max as compared to averaging methods of WE to represent sentence-embedding, but for multi-view purposes and comparison of benchmark syntactic-level tasks: e.g. POS tagging, chunking, NER, semantic role labelling</li></ul> |
 | \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   | |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   | |
@@ -36,6 +36,8 @@ My summary:
 \[5]. <ul><li>Skimming (because the study is twitter sentiment specific task - for hashtags prediction) to know how the experiments generate sentence-vector representation</li><li>w.r.t. CNN, not sure if the authors' intention to use this NN architecture is either: because linear projection of input-first convolutional layer (shared weights), for dimensional reduction purpose, or because this NN has this "K" parameter that similar with window context in skip gram - but then with dense vector representation as input (?) Is it because they want to penalize negative vector values of WE (?) or expecting the benefit of pre-trained features if anys (?)</li></ul> 
 
 \[6]. <ul><li>the authors only focus on longer sentence since they remove sentences that &lt; 20 or have &lt; 5 words &amp; discard any numerical values within text - probably because the text source is microblogs and they only want to focus in sentence polarity</li><li>This character-level embedding as convolutional layer, probably as same as stemming then?</li><li>I still don't quite understand with CNN experimental design - due to paper skimming - since they also used word2vec to generate WE</li></ul> 
+
+\[7]. <ul><li>the author </li></ul>
 
 **3. Distance metrics**
 
