@@ -45,6 +45,12 @@ My summary:
 
 \[10]. <ul><li>From their experiments, the authors claim that BOW features differ depending on data sets while word2vec features are same (?) - and it might also be the reason why BOW outperforms word2vec. The authors also hold the assumption that word2vec model does not have this linear separability as expected (?)</li></ul>
 
+\[11].
+
+\[12].
+
+\[13].
+
 **Overall comments/summary for paper in this topic**
 <ul><li>WE models mostly perform well on tasks: word analogy, paraphrase identification, information retrieval, benchmark study for handcraft features (POS tagging, NER)</li></ul>
 
