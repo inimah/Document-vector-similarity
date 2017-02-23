@@ -21,7 +21,7 @@ My summary:
 | \[5]. (Weston, et al., 2014) | Hashtags (words) prediction based on context text (sentence), Averaging word embedding; CNN | <ul><li>generates WE with word2vec</li><li>use pre-trained WE on CNN</li><li>in WE feature extraction, vector summation &amp; average, TF-IDF weighting are used</li></ul> | 
 | \[6]. (Santos & Ganti, 2014) | word-level embedding &amp; character-level embedding; Max vector | <ul><li>**Datasets**: texts of sentiment analysis domain from moview review &amp; twitter</li><li>use max operation to extract global fixed size of sentence feature/vector</li></ul>  | 
 | \[7]. (Collobert, et al., 2011) | Multi-task learning WE, Averaging word vector | <ul><li>use max as compared to averaging methods of WE to represent sentence-embedding, but for multi-view purposes and comparison of benchmark syntactic-level tasks: e.g. POS tagging, chunking, NER, semantic role labelling</li><li>use pre-trained WE from larger unlabelled data as word look up table</li></ul> |
-| \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  
+| \[8]. (Godin, et al., 2014) | Multi Layer Perceptron |  <ul><li>WE for POS tagging vs. manual feature engineering</li><li>using word2vec skipgram with negative sampling and context window of 3</li></ul>
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   | |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   | |
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   | |
@@ -38,6 +38,8 @@ My summary:
 \[6]. <ul><li>the authors only focus on longer sentence since they remove sentences that &lt; 20 or have &lt; 5 words &amp; discard any numerical values within text - probably because the text source is microblogs and they only want to focus in sentence polarity</li><li>This character-level embedding as convolutional layer, probably as same as stemming then?</li><li>I still don't quite understand with CNN experimental design - due to paper skimming - since they also used word2vec to generate WE</li></ul> 
 
 \[7]. <ul><li>This paper is one of my favourites. The authors use WE representation for several benchmark tasks - which are extremely useful when you want to build syntactic look-ups for speech and language models (e.g. POS tagging, NER, ..) specifically for other language that is not as mature as english (w.r.t the availability of these lexical and syntactic corpus/dictionary).</li> <li>My remaining question, however, is the original motivation of this WE extraction. We want to use low representation of features (i.e. word vector), but then re-use (evaluate) this lower representation to further create high-level features(?) - but of course it can also be as a benchmark study that representation learnt from NN can achieve state-of-the-art results of hand-crafted features</li><li>Need to revisit</li></ul>
+
+\[8]. <ul><li>The authors did not specifically explain in detail about document vector representation (assumption: probably because they did not investigate this matter). But they mentioned per-word feature vector that can be concatenated into a single feature vector (which can be either a vector averaging or maximum approach) representing NN weight input vector for predicting the POS tag of central word</li></ul>
 
 **3. Distance metrics**
 
