@@ -29,7 +29,7 @@ My summary:
 | \[13]. (Zheng & Callan, 2015) |  term-weighting, linear regression   | | |
 | \[14]. (Hu, et al., 2014) |  pair & non-pair text fragments   | | |
 
-My summary:
+**My Comments:**
 
 \[4]. <ul><li>I don't quite understand why the authors specifically mention this multiplication (multiplying 400 dimension WE with the importance factors) (page 4 of 6) since minimizing lost function should be included in the generation stage of WE. Probably to highlight the importance of hyperparameter configuration in this stage then?</li></ul> 
 
@@ -40,6 +40,9 @@ My summary:
 \[7]. <ul><li>This paper is one of my favourites. The authors use WE representation for several benchmark tasks - which are extremely useful when you want to build syntactic look-ups for speech and language models (e.g. POS tagging, NER, ..) specifically for other language that is not as mature as english (w.r.t the availability of these lexical and syntactic corpus/dictionary).</li> <li>My remaining question, however, is the original motivation of this WE extraction. We want to use low representation of features (i.e. word vector), but then re-use (evaluate) this lower representation to further create high-level features(?) - but of course it can also be as a benchmark study that representation learnt from NN can achieve state-of-the-art results of hand-crafted features</li><li>Need to revisit</li></ul>
 
 \[8]. <ul><li>The authors did not specifically explain in detail about document vector representation (assumption: probably because they did not investigate this matter). But they mentioned per-word feature vector that can be concatenated into a single feature vector (which can be either a vector averaging or maximum approach) representing NN weight input vector for predicting the POS tag of central word</li></ul>
+
+**Overall comments/summary for paper in this topic**
+<ul><li>WE models mostly perform well on tasks: word analogy, paraphrase identification, information retrieval, benchmark study for handcraft features (POS tagging, NER)</li></ul>
 
 **3. Distance metrics**
 
