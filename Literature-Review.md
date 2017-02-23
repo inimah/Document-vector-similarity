@@ -125,6 +125,8 @@ My review:
 
 \[14]. B. Hu, Z. Lu, H. Li, and Q. Chen, “Convolutional Neural Network Architectures for Matching Natural Language Sentences,” in NIPS 2014: Advances in Neural Information Processing Systems, 2014, pp. 2042–2050.
 
+\[15]. Socher, Richard, et al. "Parsing natural scenes and natural language with recursive neural networks." Proceedings of the 28th international conference on machine learning (ICML-11). 2011.
+
 
 **Other References (Books!):**
 
