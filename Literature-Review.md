@@ -41,6 +41,8 @@ My summary:
 
 \[8]. <ul><li>The authors do not specifically explain in detail about document vector representation (assumption: probably because they do not investigate this matter). But they describe WE as per-word feature vector that can be concatenated into a single feature vector (which can be either a vector averaging or maximum approach) representing NN weight input vector for predicting the POS tag of central word</li></ul>
 
+\[9]. <ul><li>Interesting! I was thinking similar approach! the authors adopt the concept of canonical correlation analysis (i.e. to examine relationship between 2 multivariate sets of variables - in this case is 2 pair of Q &amp; sentences) </li></ul>
+
 **Overall comments/summary for paper in this topic**
 <ul><li>WE models mostly perform well on tasks: word analogy, paraphrase identification, information retrieval, benchmark study for handcraft features (POS tagging, NER)</li></ul>
 
