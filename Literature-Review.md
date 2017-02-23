@@ -21,7 +21,7 @@ My summary:
 | \[5]. (Weston, et al., 2014) | Hashtags (words) prediction based on context text (sentence), Averaging word embedding; CNN | <ul><li>generates WE with word2vec</li><li>use pre-trained WE on CNN</li><li>in WE feature extraction, vector summation &amp; average, TF-IDF weighting are used</li></ul> | 
 | \[6]. (Santos & Ganti, 2014) | word-level embedding &amp; character-level embedding; Max vector | <ul><li>**Datasets**: texts of sentiment analysis domain from moview review &amp; twitter</li><li>use max operation to extract global fixed size of sentence feature/vector</li></ul>  | 
 | \[7]. (Collobert, et al., 2011) | Multi-task learning WE, Averaging word vector | <ul><li>use max as compared to averaging methods of WE to represent sentence-embedding, but for multi-view purposes and comparison of benchmark syntactic-level tasks: e.g. POS tagging, chunking, NER, semantic role labelling</li><li>use pre-trained WE from larger unlabelled data as word look up table</li></ul> |
-| \[8]. (Godin, et al., 2014) | POS tagging, Multi Layer Perceptron |  <ul><li>WE for POS tagging vs. manual feature engineering</li><li>best result: using word2vec skipgram with negative sampling and context window of 3</li></ul>
+| \[8]. (Godin, et al., 2014) | POS tagging, Shallow net (skip gram) |  <ul><li>WE for POS tagging vs. manual feature engineering</li><li>best result: using word2vec skipgram with negative sampling and context window of 3</li></ul>
 | \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   | |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   | |
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   | |
