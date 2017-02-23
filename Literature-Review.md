@@ -25,7 +25,7 @@ My summary:
 | \[9]. (Kang, et al., 2014) | Short-text matching (Q&A or conversation semantic matching), Multi Layer Perceptron and trimming to a fixed length |<ul><li>Compares vector space model (tf-idf cosine similarity), Latent Semantic Indexing (LSI)</li><li>tf-idf weighting of WE and then use top n word vectors</li></ul>|
 | \[10]. (Zhang & LeCun, 2015) | K-means clustering of WE, temporal CNN |<ul><li>The authors apply CNN for ontology classification, sentiment analysis, and text categorization</li><li>it compares BOW, word2vec (BOW centroids), and CNN resulting CNN outperforms other models</li></ul>|
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   | |
-| \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance, moving distance | <ul><li>Aims to address challenge: similarity between uncommon words (e.g. name of people vs. their title: President, Prime Minister; synonyms)</li><li>Evaluating distance with knn classifier</li></ul>   | |
+| \[12]. (Kusner, et al., 2015) | word-to-word similarity, closeness of word-pairs, minimal distance, moving distance | <ul><li>Aims to address challenge: similarity between uncommon words (e.g. name of people vs. their title: President, Prime Minister; synonyms)</li><li>Evaluating distance with knn classifier</li></ul>   | |
 | \[13]. (Zheng & Callan, 2015) |  term-weighting, linear regression   | | |
 | \[14]. (Hu, et al., 2014) |  pair & non-pair text fragments   | | |
 
