@@ -22,7 +22,7 @@ My summary:
 | \[6]. (Santos & Ganti, 2014) | word-level embedding &amp; character-level embedding; Max vector | <ul><li>**Datasets**: texts of sentiment analysis domain from moview review &amp; twitter</li><li>use max operation to extract global fixed size of sentence feature/vector</li></ul>  | 
 | \[7]. (Collobert, et al., 2011) | Multi-task learning WE, Averaging word vector | <ul><li>use max as compared to averaging methods of WE to represent sentence-embedding, but for multi-view purposes and comparison of benchmark syntactic-level tasks: e.g. POS tagging, chunking, NER, semantic role labelling</li><li>use pre-trained WE from larger unlabelled data as word look up table</li></ul> |
 | \[8]. (Godin, et al., 2014) | POS tagging, Shallow net (skip gram) |  <ul><li>WE for POS tagging vs. manual feature engineering</li><li>best result: using word2vec skipgram with negative sampling and context window of 3</li></ul>
-| \[9]. (Kang, et al., 2014) | Multi Layer Perceptron and trimming to a fixed length |   | |
+| \[9]. (Kang, et al., 2014) | Short-text matching (Q&A or conversation semantic matching), Multi Layer Perceptron and trimming to a fixed length |   | |
 | \[10]. (Zhang & LeCun, 2015) | Clustering |   | |
 | \[11]. (Le & Mikolov, 2014) | Paragraph2Vec |   | |
 | \[12]. (Kusner, et al., 2015) | word-to-word similarity, minimal distance, moving distance | - evaluating distance with knn classifier   | |
