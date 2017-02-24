@@ -6,7 +6,7 @@ Experiments about word-document vector, which includes:
 - more insight on data, e.g. what characteristics makes one document differs with others: specific words used in the document? (in topical categorization), polarity of orientation? (in sentiment analysis or opinion mining)   
 - evaluation on unsupervised word embedding
 - evaluation of heterogeneous data sets (text, html, xml, microblogs)
-- evaluation on words in different language (e.g. Dutch embedding)
+- evaluation on cross-language documents (e.g. Dutch embedding)
 
 Further reading towards motivations behind this study (and a brief summary of literature review!) can be read <a href="Background-Motivations.md"> {{here}} </a>
 
