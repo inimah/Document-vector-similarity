@@ -9,6 +9,8 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[3]. (Schnabel, 2015) |  | 
 | \[4]. (Levy, et al., 2015) |  |
 | \[5]. (Arora, et al., 2016) |  |
+| \[5]. (Joulin, et al., 2016) |  |
+| \[5]. (Tai, et al., 2015) |  |
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
@@ -20,7 +22,9 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 \[5]. Arora, Sanjeev, et al. "Linear algebraic structure of word senses, with applications to polysemy." arXiv preprint arXiv:1601.03764 (2016).
 
+\[6]. Joulin, Armand, et al. "Bag of tricks for efficient text classification." arXiv preprint arXiv:1607.01759 (2016).
 
+\[7]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
 
 
 **1. Word Embedding (WE)**
