@@ -12,6 +12,8 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[6]. (Joulin, et al., 2016) |  |
 | \[7]. (Tai, et al., 2015) |  |
 | \[8]. https://openreview.net/pdf?id=H1VyHY9gg | |
+| \[9]. (Jozefowicz, et al., 2016) | |
+| \[10]. Mikolov, et al., 2012) | (yes it's probably too old - but well) |
 
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
@@ -29,6 +31,10 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 \[7]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
 
 \[8]. Xie, et al. "Data Noising as Smoothing in Neural Network Langauage Models" (under review at ICLR2017)
+
+\[9]. Jozefowicz, Rafal, et al. "Exploring the limits of language modeling." arXiv preprint arXiv:1602.02410 (2016).
+
+\[10]. Mikolov, Tomáš, et al. "Subword language modeling with neural networks." preprint (http://www. fit. vutbr. cz/imikolov/rnnlm/char. pdf) (2012).
 
 -----------------------------------------------------------------------------
 
