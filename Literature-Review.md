@@ -6,11 +6,14 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | ------------- | ------------- | 
 | \[1]. (Goldberg, 2016)      |  | 
 | \[2]. https://openreview.net/pdf?id=SyK00v5xx      |  | 
-| \[3]. (, ) |  | 
+| \[3]. (Schnabel, 2015) |  | 
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
 \[2]. Arora, Sanjeev, et al. "A Simple But Tough-to-Beat Baseline for Sentence Embeddings" (under review at ICLR2017)
+
+\[3]. Schnabel, Tobias, et al. "Evaluation methods for unsupervised word embeddings." EMNLP. 2015.
+
 
 **1. Word Embedding (WE)**
 
