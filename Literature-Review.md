@@ -9,8 +9,10 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[3]. (Schnabel, 2015) |  | 
 | \[4]. (Levy, et al., 2015) |  |
 | \[5]. (Arora, et al., 2016) |  |
-| \[5]. (Joulin, et al., 2016) |  |
-| \[5]. (Tai, et al., 2015) |  |
+| \[6]. (Joulin, et al., 2016) |  |
+| \[7]. (Tai, et al., 2015) |  |
+| \[8]. https://openreview.net/pdf?id=H1VyHY9gg | |
+
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
@@ -26,6 +28,8 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 \[7]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
 
+
+# -------------------------------------------------------------------------------------------------------
 
 **1. Word Embedding (WE)**
 
