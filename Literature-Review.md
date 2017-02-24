@@ -1,6 +1,6 @@
 I decide to create a brief summary of my literature review w.r.t to "Document vector similarity".
 
-**##Shiny papers in NLP - to be read -**
+**##Most likely to be my favourite papers - to be read**
 
 | Reference        |Summary | 
 | ------------- | ------------- | 
