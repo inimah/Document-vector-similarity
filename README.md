@@ -29,11 +29,19 @@ Basically these data sets need to include challenges in learning unstructured da
    Consists of Shakespeare's play and poetry data sets, which are categorized into 4 genres (comedy, history, tragedy, poetry). Preliminary experiments (https://github.com/sereprz/ShakespeareTextAnalysis) has investigated the word vector of similar data sets but more focusing on the analysis of specific words in topical categorization and sentiment analysis problems. Likewise, we want to expore how document clustering with detect interesting insights and (hopefully) useful patterns in this classification problem.
 
 
-3. Newsfeed data sets
+3. Essay data
 
+   Data sets are retrieved from https://www.kaggle.com/c/asap-aes. This data consist of the following attributes:
+   - essay ID
+   - essay-set ID (category ID of essay based on Da Set #n--ReadMeFirst documents)
+   - score1 and score2 (only for train.tsv, the other data set like public_leaderboard.tsv has separated label solution public_leaderboard_solution.tsv)
+   - essay text
 
-3. Dutch wikipedia embedding
+4. Newsfeed data sets
+   tba
 
+5. Dutch wikipedia embedding
+   tba
 
 Methods:
 
