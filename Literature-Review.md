@@ -2,13 +2,13 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 **##Shiny papers in NLP - to be read -**
 
-| Reference        | Keywords / Approaches  | Summary | Comments |
-| ------------- |-------------| ------------- | ------------- | 
-| \[1]. (Mikolov, et al., 2013a)      | a | | |
-| \[2]. (Mikolov, et al., 2013b)      | b      |  | |
-| \[3]. (Mikolov, et al., 2013c) | c      |  | |
+| Reference        | Keywords / Approaches  | Summary | 
+| ------------- |-------------| ------------- | 
+| \[1]. (Goldberg, 2016)      | a | | 
+| \[2]. (., )      | b      |  | 
+| \[3]. (, ) | c      |  | 
 
-My summary:
+\[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
 **1. Word Embedding (WE)**
 
