@@ -7,12 +7,20 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[1]. (Goldberg, 2016)      |  | 
 | \[2]. https://openreview.net/pdf?id=SyK00v5xx      |  | 
 | \[3]. (Schnabel, 2015) |  | 
+| \[4]. (Levy, et al., 2015) |  |
+| \[5]. (Arora, et al., 2016) |  |
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
 \[2]. Arora, Sanjeev, et al. "A Simple But Tough-to-Beat Baseline for Sentence Embeddings" (under review at ICLR2017)
 
 \[3]. Schnabel, Tobias, et al. "Evaluation methods for unsupervised word embeddings." EMNLP. 2015.
+
+\[4]. Levy, Omer, Yoav Goldberg, and Ido Dagan. "Improving distributional similarity with lessons learned from word embeddings." Transactions of the Association for Computational Linguistics 3 (2015): 211-225.
+
+\[5]. Arora, Sanjeev, et al. "Linear algebraic structure of word senses, with applications to polysemy." arXiv preprint arXiv:1601.03764 (2016).
+
+
 
 
 **1. Word Embedding (WE)**
