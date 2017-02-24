@@ -28,8 +28,7 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 \[7]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
 
-
-# -------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 **1. Word Embedding (WE)**
 
