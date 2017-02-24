@@ -2,11 +2,11 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 **##Shiny papers in NLP - to be read -**
 
-| Reference        | Keywords / Approaches  | Summary | 
-| ------------- |-------------| ------------- | 
-| \[1]. (Goldberg, 2016)      | a | | 
-| \[2]. (., )      | b      |  | 
-| \[3]. (, ) | c      |  | 
+| Reference        |Summary | 
+| ------------- | ------------- | 
+| \[1]. (Goldberg, 2016)      |  | 
+| \[2]. (., )      |  | 
+| \[3]. (, ) |  | 
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
 
