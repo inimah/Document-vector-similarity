@@ -14,6 +14,7 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[8]. https://openreview.net/pdf?id=H1VyHY9gg | |
 | \[9]. (Jozefowicz, et al., 2016) | |
 | \[10]. Mikolov, et al., 2012) | (yes it's probably too old - but well) |
+| \[11]. (Sutskever, et al., 2014) | |
 
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
@@ -35,6 +36,8 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 \[9]. Jozefowicz, Rafal, et al. "Exploring the limits of language modeling." arXiv preprint arXiv:1602.02410 (2016).
 
 \[10]. Mikolov, Tomáš, et al. "Subword language modeling with neural networks." preprint (http://www. fit. vutbr. cz/imikolov/rnnlm/char. pdf) (2012).
+
+\[11]. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.
 
 -----------------------------------------------------------------------------
 
