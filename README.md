@@ -15,6 +15,7 @@ Further reading towards motivations behind this study (and a brief summary of li
 Basically these data sets need to include challenges in learning unstructured data, such as:
 - Negation issue (mostly found in sentiment analysis) 
 - Word morphological issue (e.g. mouse vs. mice)
+- Synonym
 - Different document (sentence) length
 
 1. Toy (syntetic) data sets
