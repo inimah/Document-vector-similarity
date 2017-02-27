@@ -46,7 +46,7 @@ Basically these data sets need to include challenges in learning unstructured da
 Methods:
 
 1. Feature extraction (Sentence-document vector representation)
-<ul><li>TF-IDF Bag of Words</li><li>Skip gram with vector averaging</li><li>Skip gram with vector min-max</li><li>Skip gram with TF-IDF weighting</li></ul>
+<ul><li>TF-IDF Bag of Words</li><li>Skip gram with vector averaging</li><li>Skip gram with vector min-max</li><li>Skip gram with TF-IDF weighting</li><li>K-Nearest Neighbour + Hierarchical clustering</li><li>Another sentence embedding technique -> CCA + Deep Learning(?)</li></ul>
 
 2. Distance metrics:
 <ul><li>Cosine similarity</li><li>Euclidian distance</li><li>Jaccard similarity</li><li>...</li></ul>
