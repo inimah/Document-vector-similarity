@@ -7,14 +7,15 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 | \[1]. (Goldberg, 2016)      |  | 
 | \[2]. https://openreview.net/pdf?id=SyK00v5xx      |  | 
 | \[3]. (Schnabel, 2015) |  | 
-| \[4]. (Levy, et al., 2015) |  |
-| \[5]. (Arora, et al., 2016) |  |
-| \[6]. (Joulin, et al., 2016) |  |
-| \[7]. (Tai, et al., 2015) |  |
-| \[8]. https://openreview.net/pdf?id=H1VyHY9gg | |
-| \[9]. (Jozefowicz, et al., 2016) | |
-| \[10]. Mikolov, et al., 2012) | (yes it's probably too old - but well) |
-| \[11]. (Sutskever, et al., 2014) | |
+| \[4]. https://openreview.net/pdf?id=B1Igu2ogg      |  | 
+| \[5]. (Levy, et al., 2015) |  |
+| \[6]. (Arora, et al., 2016) |  |
+| \[7]. (Joulin, et al., 2016) |  |
+| \[8]. (Tai, et al., 2015) |  |
+| \[9]. https://openreview.net/pdf?id=H1VyHY9gg | |
+| \[10]. (Jozefowicz, et al., 2016) | |
+| \[11]. Mikolov, et al., 2012) | (yes it's probably too old - but well) |
+| \[12]. (Sutskever, et al., 2014) | |
 
 
 \[1]. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.
@@ -23,21 +24,23 @@ I decide to create a brief summary of my literature review w.r.t to "Document ve
 
 \[3]. Schnabel, Tobias, et al. "Evaluation methods for unsupervised word embeddings." EMNLP. 2015.
 
-\[4]. Levy, Omer, Yoav Goldberg, and Ido Dagan. "Improving distributional similarity with lessons learned from word embeddings." Transactions of the Association for Computational Linguistics 3 (2015): 211-225.
+\[4]. Chen, Minmin. "Efficient Vector Representation for Document Through Corruption" (under review at ICLR2017)
 
-\[5]. Arora, Sanjeev, et al. "Linear algebraic structure of word senses, with applications to polysemy." arXiv preprint arXiv:1601.03764 (2016).
+\[5]. Levy, Omer, Yoav Goldberg, and Ido Dagan. "Improving distributional similarity with lessons learned from word embeddings." Transactions of the Association for Computational Linguistics 3 (2015): 211-225.
 
-\[6]. Joulin, Armand, et al. "Bag of tricks for efficient text classification." arXiv preprint arXiv:1607.01759 (2016).
+\[6]. Arora, Sanjeev, et al. "Linear algebraic structure of word senses, with applications to polysemy." arXiv preprint arXiv:1601.03764 (2016).
 
-\[7]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
+\[7]. Joulin, Armand, et al. "Bag of tricks for efficient text classification." arXiv preprint arXiv:1607.01759 (2016).
 
-\[8]. Xie, et al. "Data Noising as Smoothing in Neural Network Langauage Models" (under review at ICLR2017)
+\[8]. Tai, Kai Sheng, Richard Socher, and Christopher D. Manning. "Improved semantic representations from tree-structured long short-term memory networks." arXiv preprint arXiv:1503.00075 (2015).
 
-\[9]. Jozefowicz, Rafal, et al. "Exploring the limits of language modeling." arXiv preprint arXiv:1602.02410 (2016).
+\[9]. Xie, et al. "Data Noising as Smoothing in Neural Network Langauage Models" (under review at ICLR2017)
 
-\[10]. Mikolov, Tomáš, et al. "Subword language modeling with neural networks." preprint (http://www. fit. vutbr. cz/imikolov/rnnlm/char. pdf) (2012).
+\[10]. Jozefowicz, Rafal, et al. "Exploring the limits of language modeling." arXiv preprint arXiv:1602.02410 (2016).
 
-\[11]. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.
+\[11]. Mikolov, Tomáš, et al. "Subword language modeling with neural networks." preprint (http://www. fit. vutbr. cz/imikolov/rnnlm/char. pdf) (2012).
+
+\[12]. Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.
 
 -----------------------------------------------------------------------------
 
