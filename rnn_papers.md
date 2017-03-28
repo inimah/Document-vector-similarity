@@ -6,7 +6,7 @@ Reading list ( RNN literatures )
 | ------------- | ------------- | 
 | \[1]. (Chung et. al, 2016)      |  | 
 | \[2]. (Zaremba, 2015)     |  | 
-| \[3]. (Greff, 2016)     | Clockwork RNN | 
+| \[3]. (Greff, 2016)     |  | 
 
 
 
